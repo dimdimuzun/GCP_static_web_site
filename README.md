@@ -47,6 +47,8 @@ Below is a step-by-step guide to complete this task:
 ### 6. Access Your Static Website:
 
 - Once configured, your static website is accessible via the URL: `https://storage.googleapis.com/YOUR_BUCKET_NAME/index.html` or using the bucket's default domain.
+- Go to the [following URL to see default web page](https://storage.googleapis.com/static-web-site-example/index.html)
+- Go to the [following URL to see default 404 page](https://storage.googleapis.com/static-web-site-example/error.html)
 
 ### 7. (Optional) Configure a Custom Domain:
 
